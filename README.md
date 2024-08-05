@@ -29,3 +29,5 @@ Once the application is running, it will process the input source (e.g., webcam)
 ## Contributing
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests.
+
+© All Copyright 2024 by letanloc-tlooc
